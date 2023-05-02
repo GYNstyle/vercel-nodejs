@@ -4,8 +4,7 @@
   "description": "Learn Nodejs",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "node server.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
